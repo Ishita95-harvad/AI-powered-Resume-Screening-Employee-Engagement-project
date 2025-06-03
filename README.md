@@ -6,25 +6,25 @@ This project leverages **AI-driven automation** to **streamline resume screening
 ## 📁 Repository Structure
 
 
-📂 AI-Resume-Screening-Employee-Engagement 
+### 📂 AI-Resume-Screening-Employee-Engagement 
 │── 📄 README.md            
-# Project documentation
+### Project documentation
 │── 📂 data/              
-# Resume datasets & employee feedback data 
+### Resume datasets & employee feedback data 
 │── 📂 models/               
-# AI models for resume screening & sentiment analysis 
+### AI models for resume screening & sentiment analysis 
 │── 📂 scripts/               
-# Python scripts for feature extraction & ML pipeline 
+### Python scripts for feature extraction & ML pipeline 
 │── 📂 dashboards/           
-# Interactive visualizations for insights
+### Interactive visualizations for insights
 │── 📂 results/               
-# Findings, rankings, and engagement metrics
+### Findings, rankings, and engagement metrics
 │── 📂 config/                
-# Configuration files & metadata 
+### Configuration files & metadata 
 │── 📄 requirements.txt       
-# Dependencies for AI models 
+### Dependencies for AI models 
 │── 📄 LICENSE         
-# Legal information about dataset usage
+### Legal information about dataset usage
 
 ## 🔍 Key Features
 - **Automated Resume Screening** – AI-powered ranking and filtering of job applicants.
